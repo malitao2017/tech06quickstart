@@ -1,0 +1,13 @@
+
+
+此为一个maven案例 其中有常用的工具类方法
+
+不能运行，仅供参考
+
+若
+maven报错：
+maven An error occurred while filtering resources
+则
+Maven -> Update Project... resolved this problem for me
+
+
